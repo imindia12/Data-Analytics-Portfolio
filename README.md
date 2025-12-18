@@ -24,7 +24,7 @@ marketing recommendations for Bellabeat’s wellness products.
 **Tools:** SQL (BigQuery), Excel, Tableau
 **Skills:** Data cleaning, CTEs, aggregations, performance metrics, visualizations 
 
-🔗 [View Repository](https://github.com/yourusername/tennis-sql-analysis)
+🔗 View Repository: https://github.com/imindia12/ATP-Tennis-Analysis
 
 **Summary:**  
 Analyzed ATP tennis match data to evaluate player performance across different
