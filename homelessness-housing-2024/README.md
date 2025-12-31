@@ -24,5 +24,4 @@ To evaluate whether housing capacity (beds) aligns with homelessness need using 
 R, tidyverse, data cleaning, data merging, EDA, data visualization
 
 ## Files
-- `homelessness_capacity_2024.Rmd`
 - `homelessness_capacity_2024.html`
