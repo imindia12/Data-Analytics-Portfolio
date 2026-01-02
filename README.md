@@ -32,7 +32,7 @@ court surfaces.
 
 ---
 
-### 3. Homelessness Housing Capacity in the U.S. (2024)
+### 3. Exploratory Data Analysis: Homelessness Housing Capacity in the U.S. (2024)
 **Tools:** R
 **Skills:** Data merging, ggplot visualizations, exploratory data analysis (EDA), reproducible reporting, storytelling/communication
 
