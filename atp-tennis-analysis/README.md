@@ -1,10 +1,10 @@
-### ATP Tennis Match Analysis (2000–2023)
+# ATP Tennis Match Analysis (2000–2023)
 
 This project explores professional ATP tennis matches from 2000–2023 to understand match distribution, player performance, and match intensity across different surfaces.
 
 - Original dataset: ATP Tennis 2000–2023 (Daily Pull)
 
-# Project Overview
+## Project Overview
 
 The goal of this analysis is to answer key questions about professional tennis play:
 
@@ -16,7 +16,7 @@ The goal of this analysis is to answer key questions about professional tennis p
 
 This analysis is intended for beginners in SQL and data exploration, demonstrating the ability to query, aggregate, and interpret sports data.
 
-# Analysis Steps & Key Insights
+## Analysis Steps & Key Insights
 Step 1 — Matches by Surface
 
 SELECT Surface, COUNT(*) AS total_matches
@@ -51,7 +51,7 @@ ORDER BY three_set_matches DESC;
 Purpose: Measure match intensity and endurance across surfaces.
 Insight: Certain surfaces produce longer, more demanding matches.
 
-# Key Takeaways
+## Key Takeaways
 
 Surface distribution: Most matches are played on Hard courts.
 
@@ -59,7 +59,7 @@ Player specialization: Some players excel on specific surfaces (e.g., clay speci
 
 Match intensity: Three-set matches are more common on surfaces that favor endurance and longer rallies.
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 * SQL: COUNT, GROUP BY, ORDER BY, filtering conditions
 
@@ -69,7 +69,7 @@ Match intensity: Three-set matches are more common on surfaces that favor endura
 
 * Communicating insights in a clear, concise manner
 
-# Optional Next Steps
+## Optional Next Steps
 
 Calculate win rates per player per surface
 
@@ -77,5 +77,5 @@ Explore tournament-level patterns
 
 Analyze match duration and score trends over time
 
-# Files
+## Files
 Powerpoint Presentation: 
