@@ -27,14 +27,11 @@ Note: Data was anonymized and provided for educational purposes.
 * Higher weight correlates with higher BMI
 ​
 ## Recommendations
-Increase personalized reminders on lower activity days​
-  - data showed that users are least active Thursdays. Consider challenges,   reminders, or targeted app notifications mid-week.​
+Increase personalized reminders on lower activity days​: data showed that users are least active Thursdays. Consider challenges,   reminders, or targeted app notifications mid-week.​
 
-Market holistic wellness tracking​
-  - Increase awareness of correlation between activity, sleep, and weight to overall wellness.​
+Market holistic wellness tracking​: Increase awareness of correlation between activity, sleep, and weight to overall wellness.​
 
-Promote high-value features on peak days​
-  ​- Users are most active on Wednesdays and Saturdays. Highlight tracking features, wellness tips, or premium content on these days.
+Promote high-value features on peak days​: Users are most active on Wednesdays and Saturdays. Highlight tracking features, wellness tips, or premium content on these days.
 
 ---​
 
