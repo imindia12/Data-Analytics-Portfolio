@@ -27,20 +27,23 @@ Note: Data was anonymized and provided for educational purposes.
 * Higher weight correlates with higher BMI
 ​
 ## Recommendations
-Increase personalized reminders on lower activity days​: data showed that users are least active Thursdays. Consider challenges,   reminders, or targeted app notifications mid-week.​
+* Increase personalized reminders on lower activity days​
+data showed that users are least active Thursdays. Consider challenges,   reminders, or targeted app notifications mid-week.​
 
-Market holistic wellness tracking​: Increase awareness of correlation between activity, sleep, and weight to overall wellness.​
+* Market holistic wellness tracking​
+Increase awareness of correlation between activity, sleep, and weight to overall wellness.​
 
-Promote high-value features on peak days​: Users are most active on Wednesdays and Saturdays. Highlight tracking features, wellness tips, or premium content on these days.
+* Promote high-value features on peak days​:
+Users are most active on Wednesdays and Saturdays. Highlight tracking features, wellness tips, or premium content on these days.
 
 ---​
 
-## Repository Structure and Deliverables
+## Deliverables
 https://www.kaggle.com/datasets/arashnic/fitbit – original raw datasets
+
 https://docs.google.com/spreadsheets/d/19S7tmYqDACKXRGM0d5b4ajTKKJSg-VZZdt2f0ok7YH4/edit?usp=sharing – cleaned data, pivot tables, and summaries
+
 https://1drv.ms/p/c/c8fee04bdb30f278/IQBFC4RzY5ZhTbz0ZwLjDFR_AWz1y3ScRzPt-4U_mWSRegE?e=hvHUEp – powerpoint presentation of the findings
-About Me
-Marietta College graduate and Google Data Analytics Certificate holder seeking an entry-level data analyst role. This project is part of my growing data analytics portfolio.
 
 ## Contact
 indy.d.flores@gmail.com
