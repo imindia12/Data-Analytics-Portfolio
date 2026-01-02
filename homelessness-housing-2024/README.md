@@ -24,5 +24,5 @@ To evaluate whether housing capacity (beds) aligns with homelessness need using 
 R, tidyverse, data cleaning, data merging, EDA, data visualization
 
 ## Files
-- [`homelessness_capacity_2024.html`](https://github.com/imindia12/Data-Analytics-Portfolio/blob/main/homelessness-housing-2024/homelessness%20html.html)
-- https://github.com/imindia12/Data-Analytics-Portfolio/blob/main/homelessness-housing-2024/Homelessness%20Housing%20Capacity%20in%20the%20U.S.%20(2024).pdf
+- RECOMMENDED VIEWING: https://github.com/imindia12/Data-Analytics-Portfolio/blob/main/homelessness-housing-2024/Homelessness%20Housing%20Capacity%20in%20the%20U.S.%20(2024).pdf
+- html document: [`homelessness_capacity_2024.html`](https://github.com/imindia12/Data-Analytics-Portfolio/blob/main/homelessness-housing-2024/homelessness%20html.html)
